@@ -18,6 +18,8 @@ neardev/default/*
 neardev/dev-account
 dev-account.env
 
+src_old
+
 # ignore dev .cache
 .cache/
 
