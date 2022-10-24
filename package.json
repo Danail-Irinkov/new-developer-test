@@ -41,7 +41,7 @@
     "vue-jest": "^3.0.4"
   },
   "dependencies": {
-    "core-js": "^3.19.3",
+    "core-js": "^3.26.0",
     "near-api-js": "^0.43.1",
     "nuxt": "^2.15.8",
     "regenerator-runtime": "^0.13.9",
